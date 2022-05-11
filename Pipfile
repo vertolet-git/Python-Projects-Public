@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+yfinance = "*"
+streamlit = "*"
+pandas = "*"
+numpy = "*"
+requests = "*"
+xlsxwriter = "*"
+scipy = "*"
+atom = "*"
+beautifulsoup4 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
